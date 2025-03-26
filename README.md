@@ -1,0 +1,1 @@
+This project is designed for me to practice what I've learned about creating a website with HTML through the Odin Project. I will be linking to different recipes on this website and will reflect on what I've done at the end.
