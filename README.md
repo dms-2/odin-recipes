@@ -1,1 +1,3 @@
 This project is designed for me to practice what I've learned about creating a website with HTML through the Odin Project. I will be linking to different recipes on this website and will reflect on what I've done at the end.
+
+I just finished the project! I made a website that has links to a salad inspired by Julie,Nick's favorite one-pot pasta recipes, and my go-to chocolate chip cookies. I was able to create four pages that link to each other, add pictures, and add recipes, and then publish it through GitHub! It's wild seeing it in the wild when I click a link.
